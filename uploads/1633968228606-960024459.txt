@@ -1,0 +1,60 @@
+javascript- It is like a verb of web page that defines all the actions to be performed on a webpage.NO need to degine the type of datatypes use var, let , const
+IIFE- immidiately using function expression (func(){   })();
+
+apply and call can be used to borow methods of another object
+bind return function that can be used later
+let animal
+{
+name:animal eat(a,b){console.log()
+};
+let human ={name:};
+animal.eat.call(human,a,b);
+
+let humaneat=animal.eat.bind.(human)
+humaneat(a,b);
+
+
+this is a object whose property is the function;this gives access of objects to its method;
+
+
+
+without arrow function this refers to window object
+hence it binds to object ob;
+arrow function does ot bind its own this
+
+
+when function gets called it is popped out of stack but still arguments aare stored in closure wich are linked in sub functions
+
+Nodejs is async hence callback is a function called at the completion of a given task, hence allows other code to run at meantime.
+
+
+
+
+
+
+
+node js use
+create server and lsiten to incoming request
+handle req connect to dtabse
+return response as html r json
+
+routes defines the way in which client requests are handled .transitions betwwen documents by watching changes on url.
+express helps in creating server side web app faster and helps in managing routes to handling requests
+
+GET requests te data from specified resource
+Post submit the data to a specifies resource
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
